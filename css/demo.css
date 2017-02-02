@@ -1,0 +1,36 @@
+body {
+}
+
+main{
+	min-height: 450px;
+	padding: 10px;
+	margin-bottom: 20px;
+	border: 1px solid red;
+}
+
+header{
+	
+}
+
+footer{
+	border: 1px solid red;
+	padding: 10px
+}
+
+nav {
+	border: 1px solid red;
+}
+
+nav ui{
+	list-style: none;
+	padding: 10px;
+}
+nav ui li{
+	display: inline-block;
+	width: 32%;
+	text-align: center;
+}
+nav ui li a{
+	text-decoration: none;
+	color: red;
+}
